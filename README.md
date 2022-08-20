@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with **MERN stack and Next.js framework**.
 - 🌱 I’m currently learning Solidity.
 - 👯 I’m looking to collaborate on full-stack projects.
-- 💻 Few of my projects are available on [Portfolio 🔗](https://www.abhinayaaryal.com)
+- 💻 Few of my projects are available on [**Portfolio 🔗**](https://www.abhinayaaryal.com).
 - 📫 You can reach to me through **aryalabhinaya343@gmail.com**.
 
 <br>
