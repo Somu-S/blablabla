@@ -30,7 +30,3 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhinaya_aryal)
 
-## Github Stats 📈
-
-![Puneets's github stats](https://github-readme-stats.vercel.app/api?username=puneetkathar1&theme=light&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetkathar1)
