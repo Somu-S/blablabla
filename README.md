@@ -3,7 +3,8 @@
 ### Glad to see you here! 😉;
 
 - 🔭 I’m currently working with **MERN stack and Next.js framework**.
--  I'm interested in **Web Development, Linux and Programming with Zig**.
+- ![image](https://user-images.githubusercontent.com/85230684/201527246-0da61da6-c6a4-4f0f-9648-fd7c81d8b7ad.png)
+ I'm interested in **Web Development, Linux and Programming with Zig**.
 - 🌱 I’m looking to collaborate on full-stack projects.
 - 💻 Few of my projects are available on [**Portfolio 🔗**](https://www.abhinayaaryal.com).
 - 📫 You can reach to me through **aryalabhinaya343@gmail.com**.
