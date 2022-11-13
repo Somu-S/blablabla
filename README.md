@@ -16,7 +16,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Next Badge](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![Next Badge](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)(https://www.nextjs.org)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node Badge](https://img.shields.io/badge/Node.js-89BB3C?style=for-the-badge&logo=node.js&logoColor=white)
 
